@@ -8,6 +8,7 @@ function App() {
             <h1>{clickCount}</h1>
             <button onClick={() => setClickCount(() => clickCount + 1)}>Click</button>
             <h1>Thanks for visting my website</h1>
+            <h2>Have a nice day</h2>
         </div>
     )
 }
